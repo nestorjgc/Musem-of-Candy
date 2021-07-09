@@ -14,6 +14,6 @@
   <li>UI scales depending on the size of the screen.</li>
 </ul>
 
-![](Pictures/Sample1.PNG)
+![](imgs/Sample1.PNG)
 
 <p> <b>Nestor Garcia</b></p>
