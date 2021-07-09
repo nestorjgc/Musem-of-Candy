@@ -16,4 +16,6 @@
 
 ![](imgs/Sample1.PNG)
 
+![](imgs/Sample2.PNG)
+
 <p> <b>Nestor Garcia</b></p>
