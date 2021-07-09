@@ -1,8 +1,8 @@
 # Musem-of-Candy
 
-<h2>Single page project of a simple price table UI.</h2>
+<h2>Single page project with future potential.</h2>
 
-<p>Built during 2021 just for fun trying new styles and different shortcuts.</p>
+<p>Built during 2021 just for fun and to improve designing skills.</p>
 
 <b>Skills used:</b>
   <p></p>
@@ -10,9 +10,10 @@
   <li>Bootstraps.</li>
   <li>HTML.</li>
   <li>CSS.</li>
-  
+  <li>Compatible to mobile versions.</li>
+  <li>UI scales depending on the size of the screen.</li>
 </ul>
 
-![](Images/Capture.PNG)
+![](Pictures/Sample1.PNG)
 
 <p> <b>Nestor Garcia</b></p>
