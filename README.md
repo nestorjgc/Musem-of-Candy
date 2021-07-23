@@ -18,4 +18,4 @@
 
 ![](imgs/Sample2.PNG)
 
-<p> <b>Nestor Garcia.</b></p>
+<p> <b>Nestor Garcia</b></p>
